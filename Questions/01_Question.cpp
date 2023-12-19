@@ -15,4 +15,6 @@ int main()
 
     else
         cout << "You are not adult";
+
+    return 0;
 }
