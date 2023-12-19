@@ -9,6 +9,7 @@ using namespace std;
 // parameterised
 // non parameterised
 
+
 // Void
 void printName()
 {
@@ -20,6 +21,7 @@ int main()
     printName();
     return 0;
 }
+
 
 // Parametrised
 void printName(string name)
