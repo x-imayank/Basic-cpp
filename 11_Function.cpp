@@ -60,7 +60,7 @@ int main()
 // Pass by value
 void doSomething(int num)
 {
-    cout << num << endl; // 10
+    cout << num << endl;  // 10
     num += 5;
     cout << num << endl; // 10 + 5 - 15
     num += 5;
