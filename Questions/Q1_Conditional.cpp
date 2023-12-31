@@ -9,7 +9,7 @@ int main()
     int age;
     cout << "Enter your age here: ";
     cin >> age;
-
+ 
     if (age >= 18)
         cout << "You are an adult.";
 
