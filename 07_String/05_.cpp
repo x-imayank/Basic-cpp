@@ -6,5 +6,6 @@ int main()
 {
     int a = 4;
     int b = 45;
-    cout << a+b;
+    int c = 5;
+    cout << a+b+c;
 }
