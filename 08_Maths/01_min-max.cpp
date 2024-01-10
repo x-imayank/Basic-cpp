@@ -8,4 +8,6 @@ int main()
     int b = 8;
     cout << min(a, b) << endl;
     cout << max(a, b);
+
+    return 0;
 }
