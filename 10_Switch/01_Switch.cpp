@@ -41,6 +41,6 @@ int main()
         break;
     default:
         cout << "Enter correct word.";
-        break;q
+        break;
     }
 }
