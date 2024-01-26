@@ -9,12 +9,14 @@ public:
    string mySting;
 };
 
+
 class Cars
 {
 public:
    string brand;
    int year;
 };
+
 
 int main()
 {
