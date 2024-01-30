@@ -14,6 +14,7 @@ int main()
       i = i + 1;
    }
 
-   cout << sum;
+   cout << sum << endl;
+
    return 0;
 }
